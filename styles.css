@@ -1,0 +1,13 @@
+body {
+    font-family: "Brush Script MT", monospace;
+    background-color: pink;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+.result {
+    display:none ;
+}
+ 
